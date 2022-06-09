@@ -2,7 +2,7 @@
 
 
 ## Descrição do Projeto
-Açai da praçaé uma empresa de venda de açai para os municipios do rio de janeiro por delivery.
+Açai da praça é uma empresa de venda de açai para os municipios do rio de janeiro por delivery.
 
 
  
